@@ -1,0 +1,11 @@
+# Generated build outputs
+/build/
+*.o
+*.obj
+*.exe
+*.out
+*.pdb
+*.ilk
+# Machine-specific IDE state
+.vs/
+# Keep source, README, and shared build settings in version control.
